@@ -1,0 +1,7 @@
+streamlit
+SpeechRecognition
+nltk
+textblob
+pydub
+boto3
+aws_transcribe
